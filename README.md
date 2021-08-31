@@ -10,7 +10,7 @@
 
 These notebooks are based on restructured testfiles (*.rst) of the pandas project https://pandas.pydata.org/pandas-docs/stable/
 
-As this site does not offer the documentation in form of Jupyter notebooks, I decided to the necessary conversion process myself.
+As this pandas site does not offer the documentation in form of Jupyter notebooks, and I appreciate jupyter notebooks as tool for learning by doing, I decided to the necessary conversion process myself.
 
 After some manual preprocessing these files have been converted to notebooks with sphinx. ***Sphinx*** has been installed on  [https://github.com/sphinx-doc/sphinx ] on windows WSL [https://docs.microsoft.com/en-us/windows/wsl/install-win10] hosted on windows-10, with additional extension of ***sphinxcontrib-jupyter*** [https://github.com/QuantEcon/sphinxcontrib-jupyter]
 
